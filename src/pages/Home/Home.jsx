@@ -1,8 +1,11 @@
 import React from 'react';
 import { FaAppStoreIos, FaCheckCircle, FaClock, FaCompass, FaGooglePlay, FaPowerOff, FaTools } from 'react-icons/fa';
 import hero from '../../assets/hero.png'
+import Card from '../../components/Card/Card';
+import { useLoaderData } from 'react-router';
 
 const Home = () => {
+    const cards = useLoaderData(); 
     return (
         <div className="bg-gray-100 text-center py-16 px-6 ">
             <h1 className="text-4xl md:text-5xl font-semibold mb-4 text-gray-800">
@@ -69,9 +72,20 @@ const Home = () => {
     <h1 className="text-2xl md:text-5xl font-semibold mb-4 text-gray-800 m-20">Trending Apps</h1>
     <p className='text-gray-500'>Explore All Trending Apps on the Market developed by us</p>
 </div>
+<section className='py-12 px-6 bg-gray-100 min-h-screen '>
+      
+      <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-9 '>
+        {
+        cards.map(card => (
+          <Card key={card.id} card={card} />))
+        }
+      </div>
+    </section>
 
 
         </div>
+
+        
     );
 };
 

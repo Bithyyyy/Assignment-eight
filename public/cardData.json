@@ -1,14 +1,14 @@
 [
   {
-    "image": "forest.png",
+    "image": "src/assets/demo-app (2).webp",
     "title": "Forest: Focus For Productivity",
     "companyName": "SeekrTech",
     "id": 1,
-    "description": "Stay focused and plant virtual trees that grow as you concentrate.",
+    "description": "Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 48,
-    "reviews": 540000,
+    "reviews": "540K",
     "ratingAvg": 4.8,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 8000 },
       { "name": "2 star", "count": 12000 },
@@ -18,15 +18,15 @@
     ]
   },
   {
-    "image": "smplan.png",
+    "image": "src/assets/demo-app (1).webp",
     "title": "SmPlan: ToDo List With Reminder",
     "companyName": "Smart Labs",
     "id": 2,
-    "description": "Organize your daily plans, set reminders, and boost your productivity.",
+    "description": "Organize your daily plans, set reminders, and boost your productivity.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 25,
-    "reviews": 210000,
+    "reviews": "210K",
     "ratingAvg": 4.7,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 7000 },
@@ -36,15 +36,15 @@
     ]
   },
   {
-    "image": "flip.png",
+    "image": "src/assets/demo-app (3).webp",
     "title": "FLIP – Focus Timer For Study",
     "companyName": "Rinasoft Inc.",
     "id": 3,
-    "description": "A study timer that helps students stay focused using the Pomodoro method.",
+    "description": "A study timer that helps students stay focused using the Pomodoro method.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 60,
-    "reviews": 390000,
+    "reviews": "390K",
     "ratingAvg": 4.6,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 9000 },
       { "name": "2 star", "count": 11000 },
@@ -54,15 +54,15 @@
     ]
   },
   {
-    "image": "pomocat.png",
+    "image": "src/assets/demo-app (4).webp",
     "title": "Pomocat – Cute Pomodoro Timer",
     "companyName": "MeowTech Studio",
     "id": 4,
-    "description": "Focus with adorable cats cheering you on during study sessions.",
+    "description": "Focus with adorable cats cheering you on during study sessions.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 35,
-    "reviews": 145000,
+    "reviews": "145K",
     "ratingAvg": 4.9,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 5000 },
@@ -72,15 +72,15 @@
     ]
   },
   {
-    "image": "timeplanner.png",
+    "image": "src/assets/demo-app (5).webp",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "TimeTune",
     "id": 5,
-    "description": "Plan and manage your daily schedule with powerful productivity tools.",
+    "description": "Plan and manage your daily schedule with powerful productivity tools.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 42,
-    "reviews": 250000,
+    "reviews": "250K",
     "ratingAvg": 4.5,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 11000 },
       { "name": "2 star", "count": 15000 },
@@ -90,15 +90,15 @@
     ]
   },
   {
-    "image": "morninghabits.png",
+    "image": "src/assets/demo-app (6).webp",
     "title": "Morning Habits – Daily Routine",
     "companyName": "Habitify",
     "id": 6,
-    "description": "Build a consistent morning routine with habit tracking and reminders.",
+    "description": "Build a consistent morning routine with habit tracking and reminders.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 28,
-    "reviews": 180000,
+    "reviews": "180K",
     "ratingAvg": 4.8,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 7000 },
@@ -108,15 +108,15 @@
     ]
   },
   {
-    "image": "focusplant.png",
+    "image": "src/assets/doodles.jpeg",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Shikudo",
     "id": 7,
-    "description": "Gamify your focus and productivity by growing a forest with focus sessions.",
+    "description": "Gamify your focus and productivity by growing a forest with focus sessions.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 55,
-    "reviews": 400000,
+    "reviews": "400K",
     "ratingAvg": 4.8,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 7000 },
       { "name": "2 star", "count": 11000 },
@@ -126,15 +126,15 @@
     ]
   },
   {
-    "image": "alarmy.png",
+    "image": "src/assets/demo-app (1).webp",
     "title": "Alarmy – Alarm Clock & Sleep",
     "companyName": "Delight Room",
     "id": 8,
-    "description": "The loudest alarm app to help you wake up and start your day right.",
+    "description": "The loudest alarm app to help you wake up and start your day right.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 64,
-    "reviews": 720000,
+    "reviews": "720K",
     "ratingAvg": 4.7,
-    "downloads": 9000000,
+    "downloads": "9M",
     "ratings": [
       { "name": "1 star", "count": 10000 },
       { "name": "2 star", "count": 20000 },
@@ -144,15 +144,15 @@
     ]
   },
   {
-    "image": "noteflow.png",
+    "image": "src/assets/demo-app (2).webp",
     "title": "NoteFlow – Smart Notes & Tasks",
     "companyName": "FlowApps",
     "id": 9,
-    "description": "Write notes, manage tasks, and organize your ideas all in one place.",
+    "description": "Write notes, manage tasks, and organize your ideas all in one place.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 38,
-    "reviews": 150000,
+    "reviews": "150K",
     "ratingAvg": 4.6,
-    "downloads": 4500000,
+    "downloads": "4.5M",
     "ratings": [
       { "name": "1 star", "count": 6000 },
       { "name": "2 star", "count": 8000 },
@@ -162,15 +162,15 @@
     ]
   },
   {
-    "image": "taskhero.png",
+    "image": "src/assets/demo-app (4).webp",
     "title": "TaskHero – Gamified ToDo App",
     "companyName": "MindSpark",
     "id": 10,
-    "description": "Turn your daily tasks into fun RPG-style challenges.",
+    "description": "Turn your daily tasks into fun RPG-style challenges.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 47,
-    "reviews": 98000,
+    "reviews": "98K",
     "ratingAvg": 4.8,
-    "downloads": 2300000,
+    "downloads": "2.3M",
     "ratings": [
       { "name": "1 star", "count": 2000 },
       { "name": "2 star", "count": 4000 },
@@ -180,15 +180,15 @@
     ]
   },
   {
-    "image": "habitloop.png",
+    "image": "src/assets/demo-app (5).webp",
     "title": "HabitLoop – Habit Tracker",
     "companyName": "Loop Studio",
     "id": 11,
-    "description": "Track your habits and build a consistent, healthier routine.",
+    "description": "Track your habits and build a consistent, healthier routine.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 30,
-    "reviews": 87000,
+    "reviews": "87K",
     "ratingAvg": 4.5,
-    "downloads": 3200000,
+    "downloads": "3.2M",
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 6000 },
@@ -198,15 +198,15 @@
     ]
   },
   {
-    "image": "focusmate.png",
+    "image": "src/assets/demo-app (4).webp",
     "title": "FocusMate – Study With Me",
     "companyName": "WorkBuddy",
     "id": 12,
-    "description": "Stay accountable with virtual coworking sessions to boost focus.",
+    "description": "Stay accountable with virtual coworking sessions to boost focus.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 53,
-    "reviews": 245000,
+    "reviews": "245K",
     "ratingAvg": 4.9,
-    "downloads": 8000000,
+    "downloads": "8M",
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 4000 },
@@ -216,15 +216,15 @@
     ]
   },
   {
-    "image": "zenfocus.png",
+    "image": "src/assets/demo-app (3).webp",
     "title": "ZenFocus – Calm Productivity",
     "companyName": "Zenware",
     "id": 13,
-    "description": "A minimal focus timer with relaxing soundscapes.",
+    "description": "A minimal focus timer with relaxing soundscapes.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 40,
-    "reviews": 110000,
+    "reviews": "110K",
     "ratingAvg": 4.7,
-    "downloads": 4600000,
+    "downloads": "4.6M",
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 7000 },
@@ -234,15 +234,15 @@
     ]
   },
   {
-    "image": "daybook.png",
+    "image": "src/assets/demo-app (6).webp",
     "title": "DayBook – Daily Journal",
     "companyName": "KraftHub",
     "id": 14,
-    "description": "Capture your thoughts, goals, and reflections effortlessly.",
+    "description": "Capture your thoughts, goals, and reflections effortlessly.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 34,
-    "reviews": 175000,
+    "reviews": "175K",
     "ratingAvg": 4.8,
-    "downloads": 5500000,
+    "downloads": "5.5M",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 8000 },
@@ -252,15 +252,15 @@
     ]
   },
   {
-    "image": "taskly.png",
+    "image": "src/assets/demo-app (5).webp",
     "title": "Taskly – Simple Task Manager",
     "companyName": "SkyApps",
     "id": 15,
-    "description": "A clean, fast, and simple app to manage daily to-dos.",
+    "description": "A clean, fast, and simple app to manage daily to-dos.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 26,
-    "reviews": 120000,
+    "reviews": "120K",
     "ratingAvg": 4.6,
-    "downloads": 2700000,
+    "downloads": "2.7M",
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 6000 },
@@ -270,15 +270,15 @@
     ]
   },
   {
-    "image": "studycat.png",
+    "image": "src/assets/demo-app (3).webp",
     "title": "StudyCat – Study Timer",
     "companyName": "EduSoft",
     "id": 16,
-    "description": "Cute and motivating focus timer designed for students.",
+    "description": "Cute and motivating focus timer designed for students.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 33,
-    "reviews": 155000,
+    "reviews": "155K",
     "ratingAvg": 4.9,
-    "downloads": 4000000,
+    "downloads": "4M",
     "ratings": [
       { "name": "1 star", "count": 2000 },
       { "name": "2 star", "count": 4000 },
@@ -288,15 +288,15 @@
     ]
   },
   {
-    "image": "notionlite.png",
+    "image": "src/assets/demo-app (6).webp",
     "title": "Notion Lite – Notes & Organizer",
     "companyName": "Notion Labs",
     "id": 17,
-    "description": "Organize tasks, notes, and projects with a lightweight Notion-style interface.",
+    "description": "Organize tasks, notes, and projects with a lightweight Notion-style interface.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 51,
-    "reviews": 260000,
+    "reviews": "260K",
     "ratingAvg": 4.8,
-    "downloads": 7000000,
+    "downloads": "7M",
     "ratings": [
       { "name": "1 star", "count": 6000 },
       { "name": "2 star", "count": 10000 },
@@ -306,15 +306,15 @@
     ]
   },
   {
-    "image": "focusbuddy.png",
+    "image": "src/assets/doodles.jpeg",
     "title": "FocusBuddy – Productivity Tracker",
     "companyName": "NextGen Studio",
     "id": 18,
-    "description": "Track your productivity time with smart analytics and goals.",
+    "description": "Track your productivity time with smart analytics and goals.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 46,
-    "reviews": 90000,
+    "reviews": "90K",
     "ratingAvg": 4.5,
-    "downloads": 2800000,
+    "downloads": "2.8M",
     "ratings": [
       { "name": "1 star", "count": 3000 },
       { "name": "2 star", "count": 7000 },
@@ -324,15 +324,15 @@
     ]
   },
   {
-    "image": "mindfocus.png",
+    "image": "src/assets/demo-app (4).webp",
     "title": "MindFocus – Deep Work Timer",
     "companyName": "MindLab",
     "id": 19,
-    "description": "Use deep work techniques to focus longer and accomplish more.",
+    "description": "Use deep work techniques to focus longer and accomplish more.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 39,
-    "reviews": 130000,
+    "reviews": "130K",
     "ratingAvg": 4.7,
-    "downloads": 3600000,
+    "downloads": "3.6M",
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 6000 },
@@ -342,15 +342,15 @@
     ]
   },
   {
-    "image": "habitforest.png",
+    "image": "src/assets/demo-app (3).webp",
     "title": "HabitForest – Grow With Habits",
     "companyName": "GreenRoot Apps",
     "id": 20,
-    "description": "Plant trees and grow a forest as you build good habits daily.",
+    "description": "Plant trees and grow a forest as you build good habits daily.Stay focused and plant virtual trees that grow as you concentrate.This comprehensive collection of productivity applications is designed to address every aspect of modern time management, ranging from intense focus sessions to long-term habit cultivation.With impressive average ratings of 4.8 and a cumulative 23.05 million downloads across the three, these tools offer a highly engaging and successful method for converting distraction-free time into a visual, ecological reward.Lastly, the collection highlights specialized timers and unique accountability systems for maximum efficiency during study or work periods. ",
     "size": 45,
-    "reviews": 185000,
+    "reviews": "185K",
     "ratingAvg": 4.8,
-    "downloads": 5000000,
+    "downloads": "5M",
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 7000 },
