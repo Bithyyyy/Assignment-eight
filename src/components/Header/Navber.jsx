@@ -22,7 +22,7 @@ const Navber = () => {
     </div>
     <div className="flex items-center space-x-2 ml-10">
     <Link to="/home">
-    <img src={logo} alt="HERO logo" className="md:w-10 w-50" />
+    <img src={logo} alt="HERO logo" className="md:w-10 w-10" />
     </Link>
     <Link
     to="/home"

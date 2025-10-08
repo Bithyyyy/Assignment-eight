@@ -8,7 +8,7 @@ const Footer = () => {
           <div className='flex justify-around items-center'>
             <div className="flex items-center space-x-2 ml-10 " >
             <Link to="/home">
-            <img src={logo} alt="HERO logo" className="md:w-10 w-50 mt-10" />
+            <img src={logo} alt="HERO logo" className="md:w-10 w-10 mt-10" />
             </Link>
             <Link to="/home"
                 className="mt-10 bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-transparent bg-clip-text font-bold text-xl"

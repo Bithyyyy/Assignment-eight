@@ -1,0 +1,362 @@
+[
+  {
+    "image": "forest.png",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "SeekrTech",
+    "id": 1,
+    "description": "Stay focused and plant virtual trees that grow as you concentrate.",
+    "size": 48,
+    "reviews": 540000,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 32000 },
+      { "name": "4 star", "count": 110000 },
+      { "name": "5 star", "count": 378000 }
+    ]
+  },
+  {
+    "image": "smplan.png",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "Smart Labs",
+    "id": 2,
+    "description": "Organize your daily plans, set reminders, and boost your productivity.",
+    "size": 25,
+    "reviews": 210000,
+    "ratingAvg": 4.7,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 103000 }
+    ]
+  },
+  {
+    "image": "flip.png",
+    "title": "FLIP – Focus Timer For Study",
+    "companyName": "Rinasoft Inc.",
+    "id": 3,
+    "description": "A study timer that helps students stay focused using the Pomodoro method.",
+    "size": 60,
+    "reviews": 390000,
+    "ratingAvg": 4.6,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 125000 },
+      { "name": "5 star", "count": 205000 }
+    ]
+  },
+  {
+    "image": "pomocat.png",
+    "title": "Pomocat – Cute Pomodoro Timer",
+    "companyName": "MeowTech Studio",
+    "id": 4,
+    "description": "Focus with adorable cats cheering you on during study sessions.",
+    "size": 35,
+    "reviews": 145000,
+    "ratingAvg": 4.9,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 31000 },
+      { "name": "5 star", "count": 94000 }
+    ]
+  },
+  {
+    "image": "timeplanner.png",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeTune",
+    "id": 5,
+    "description": "Plan and manage your daily schedule with powerful productivity tools.",
+    "size": 42,
+    "reviews": 250000,
+    "ratingAvg": 4.5,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 11000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 37000 },
+      { "name": "4 star", "count": 87000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "morninghabits.png",
+    "title": "Morning Habits – Daily Routine",
+    "companyName": "Habitify",
+    "id": 6,
+    "description": "Build a consistent morning routine with habit tracking and reminders.",
+    "size": 28,
+    "reviews": 180000,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 51000 },
+      { "name": "5 star", "count": 98000 }
+    ]
+  },
+  {
+    "image": "focusplant.png",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "Shikudo",
+    "id": 7,
+    "description": "Gamify your focus and productivity by growing a forest with focus sessions.",
+    "size": 55,
+    "reviews": 400000,
+    "ratingAvg": 4.8,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 232000 }
+    ]
+  },
+  {
+    "image": "alarmy.png",
+    "title": "Alarmy – Alarm Clock & Sleep",
+    "companyName": "Delight Room",
+    "id": 8,
+    "description": "The loudest alarm app to help you wake up and start your day right.",
+    "size": 64,
+    "reviews": 720000,
+    "ratingAvg": 4.7,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 460000 }
+    ]
+  },
+  {
+    "image": "noteflow.png",
+    "title": "NoteFlow – Smart Notes & Tasks",
+    "companyName": "FlowApps",
+    "id": 9,
+    "description": "Write notes, manage tasks, and organize your ideas all in one place.",
+    "size": 38,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 52000 },
+      { "name": "5 star", "count": 64000 }
+    ]
+  },
+  {
+    "image": "taskhero.png",
+    "title": "TaskHero – Gamified ToDo App",
+    "companyName": "MindSpark",
+    "id": 10,
+    "description": "Turn your daily tasks into fun RPG-style challenges.",
+    "size": 47,
+    "reviews": 98000,
+    "ratingAvg": 4.8,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 58000 }
+    ]
+  },
+  {
+    "image": "habitloop.png",
+    "title": "HabitLoop – Habit Tracker",
+    "companyName": "Loop Studio",
+    "id": 11,
+    "description": "Track your habits and build a consistent, healthier routine.",
+    "size": 30,
+    "reviews": 87000,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 27000 },
+      { "name": "5 star", "count": 38000 }
+    ]
+  },
+  {
+    "image": "focusmate.png",
+    "title": "FocusMate – Study With Me",
+    "companyName": "WorkBuddy",
+    "id": 12,
+    "description": "Stay accountable with virtual coworking sessions to boost focus.",
+    "size": 53,
+    "reviews": 245000,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 183000 }
+    ]
+  },
+  {
+    "image": "zenfocus.png",
+    "title": "ZenFocus – Calm Productivity",
+    "companyName": "Zenware",
+    "id": 13,
+    "description": "A minimal focus timer with relaxing soundscapes.",
+    "size": 40,
+    "reviews": 110000,
+    "ratingAvg": 4.7,
+    "downloads": 4600000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 31000 },
+      { "name": "5 star", "count": 53000 }
+    ]
+  },
+  {
+    "image": "daybook.png",
+    "title": "DayBook – Daily Journal",
+    "companyName": "KraftHub",
+    "id": 14,
+    "description": "Capture your thoughts, goals, and reflections effortlessly.",
+    "size": 34,
+    "reviews": 175000,
+    "ratingAvg": 4.8,
+    "downloads": 5500000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 17000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "taskly.png",
+    "title": "Taskly – Simple Task Manager",
+    "companyName": "SkyApps",
+    "id": 15,
+    "description": "A clean, fast, and simple app to manage daily to-dos.",
+    "size": 26,
+    "reviews": 120000,
+    "ratingAvg": 4.6,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 14000 },
+      { "name": "4 star", "count": 33000 },
+      { "name": "5 star", "count": 64000 }
+    ]
+  },
+  {
+    "image": "studycat.png",
+    "title": "StudyCat – Study Timer",
+    "companyName": "EduSoft",
+    "id": 16,
+    "description": "Cute and motivating focus timer designed for students.",
+    "size": 33,
+    "reviews": 155000,
+    "ratingAvg": 4.9,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 23000 },
+      { "name": "5 star", "count": 118000 }
+    ]
+  },
+  {
+    "image": "notionlite.png",
+    "title": "Notion Lite – Notes & Organizer",
+    "companyName": "Notion Labs",
+    "id": 17,
+    "description": "Organize tasks, notes, and projects with a lightweight Notion-style interface.",
+    "size": 51,
+    "reviews": 260000,
+    "ratingAvg": 4.8,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 154000 }
+    ]
+  },
+  {
+    "image": "focusbuddy.png",
+    "title": "FocusBuddy – Productivity Tracker",
+    "companyName": "NextGen Studio",
+    "id": 18,
+    "description": "Track your productivity time with smart analytics and goals.",
+    "size": 46,
+    "reviews": 90000,
+    "ratingAvg": 4.5,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 26000 },
+      { "name": "5 star", "count": 42000 }
+    ]
+  },
+  {
+    "image": "mindfocus.png",
+    "title": "MindFocus – Deep Work Timer",
+    "companyName": "MindLab",
+    "id": 19,
+    "description": "Use deep work techniques to focus longer and accomplish more.",
+    "size": 39,
+    "reviews": 130000,
+    "ratingAvg": 4.7,
+    "downloads": 3600000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 17000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "habitforest.png",
+    "title": "HabitForest – Grow With Habits",
+    "companyName": "GreenRoot Apps",
+    "id": 20,
+    "description": "Plant trees and grow a forest as you build good habits daily.",
+    "size": 45,
+    "reviews": 185000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 42000 },
+      { "name": "5 star", "count": 117000 }
+    ]
+  }
+]
