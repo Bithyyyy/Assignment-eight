@@ -41,6 +41,20 @@ const CardDetails = () => {
     return <p className="text-center mt-10 text-red-500">Card not found</p>;
   }
   
+
+  const handleInstall = () => {
+    const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
+
+    // prevent duplicate installs
+    const alreadyInstalled = installedApps.some(app => app.id === card.id);
+    if (!alreadyInstalled) {
+      installedApps.push(card);
+      localStorage.setItem('installedApps', JSON.stringify(installedApps));
+      alert(`${card.title} installed successfully!`);
+    } else {
+      alert(`${card.title} is already installed.`);
+    }
+  };
   return (
     
     <div className=" bg-gray-50 min-h-screen">
@@ -62,23 +76,23 @@ const CardDetails = () => {
 
             <div className="flex justify-center items-center md:justify-start gap-6 text-gray-700">
               <div>
-                <img src={download}></img>
+                <img src={download} className='w-8'></img>
                 <p className="font-semibold text-lg">{card.downloads}</p>
                 <p className="text-sm">Downloads</p>
               </div>
               <div>
-                <img src={star}></img>
+                <img src={star} className='w-8'></img>
                 <p className="font-semibold text-lg">{card.ratingAvg}</p>
                 <p className="text-sm">Average Rating</p>
               </div>
               <div>
-                <img src={like}></img>
+                <img src={like} className='w-8'></img>
                 <p className="font-semibold text-lg">{card.reviews}</p>
                 <p className="text-sm">Total Reviews</p>
               </div>
             </div>
 
-            <button className="mt-5 bg-[#00d390] hover:bg-green-600 text-white font-semibold px-5 py-2 rounded-[5px]">
+            <button onClick={handleInstall} className="mt-5 bg-[#00d390] hover:bg-green-600 text-white font-semibold px-5 py-2 rounded-[5px]">
               Install Now ({card.size} MB)
             </button>
           </div>
@@ -110,7 +124,7 @@ const CardDetails = () => {
 
         </div>
 
-        {/* Desc */}
+        
         <div className="mt-10">
           <h3 className="text-lg font-semibold mb-3 text-gray-800">Description</h3>
           <p className="text-gray-600 leading-relaxed">{card.description}</p>

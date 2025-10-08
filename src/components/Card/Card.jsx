@@ -21,7 +21,7 @@ const Card = ({ card }) => {
       </figure>
 
       <div className='p-auto'>
-        <p className='font-semibold text-lg mb-2'>
+        <p className='font-semibold text-lg mb-2 '>
           {title || 'Forest: Focus for Productivity'}
         </p>
         <div className='flex justify-between gap-10 pt-9 pl-3 pr-3'>

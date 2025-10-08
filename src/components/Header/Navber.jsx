@@ -36,8 +36,8 @@ const Navber = () => {
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 font-semibold text-[16px]">
       <li className='m-2 text-black hover:bg-gradient-to-r hover:from-[#632EE3] hover:to-[#9F62F2] hover:text-transparent hover:bg-clip-text transition-all duration-0 hover:underline'><Link to="/home">Home</Link></li>
-      <li className='m-2'><Link to="/home">Apps</Link></li>
-      <li className='m-2'><Link to="/home">Installation</Link></li>
+      <li className='m-2 ext-black hover:bg-gradient-to-r hover:from-[#632EE3] hover:to-[#9F62F2] hover:text-transparent hover:bg-clip-text transition-all duration-0 hover:underline'><Link to="/apps">Apps</Link></li>
+      <li className='m-2 ext-black hover:bg-gradient-to-r hover:from-[#632EE3] hover:to-[#9F62F2] hover:text-transparent hover:bg-clip-text transition-all duration-0 hover:underline'><Link to="/installation">Installation</Link></li>
       
     </ul>
   </div>

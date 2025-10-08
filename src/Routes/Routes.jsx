@@ -4,6 +4,8 @@ import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import CardDetails from "../pages/CardDetails/CardDetails";
 import NotFound from "../pages/NotFound/NotFound";
+import Apps from "../pages/Apps/Apps";
+import Instalation from "../pages/Instalation/Instalation";
 
 export const router = createBrowserRouter([
     {
@@ -25,6 +27,16 @@ export const router = createBrowserRouter([
             loader: () => fetch('/cardData.json'),
             path: 'details/:id',
             element: <CardDetails />
+           },
+           {
+            loader: () => fetch('/cardData.json'),
+            path: '/apps',
+            element: <Apps/>
+           },
+           {
+            loader: () => fetch('/cardData.json'),
+            path: '/installation',
+            element: <Instalation/>
            },
            {
             path: '*',
