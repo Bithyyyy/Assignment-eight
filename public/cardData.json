@@ -1,6 +1,6 @@
 [
   {
-    "image": "/src/assets/time.jpg",
+    "image": " /assets/time.jpg",
     "title": "Forest: Focus For Productivity",
     "companyName": "SeekrTech",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (1).webp",
+    "image": " /assets/demo-app (1).webp",
     "title": "SmPlan: ToDo List With Reminder",
     "companyName": "Smart Labs",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (3).webp",
+    "image": " /assets/demo-app (3).webp",
     "title": "FLIP – Focus Timer For Study",
     "companyName": "Rinasoft Inc.",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (4).webp",
+    "image": " /assets/demo-app (4).webp",
     "title": "Pomocat – Cute Pomodoro Timer",
     "companyName": "MeowTech Studio",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (5).webp",
+    "image": " /assets/demo-app (5).webp",
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "TimeTune",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (6).webp",
+    "image": " /assets/demo-app (6).webp",
     "title": "Morning Habits – Daily Routine",
     "companyName": "Habitify",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (4).webp",
+    "image": " /assets/demo-app (4).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Shikudo",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (1).webp",
+    "image": " /assets/demo-app (1).webp",
     "title": "Alarmy – Alarm Clock & Sleep",
     "companyName": "Delight Room",
     "id": 8,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (2).webp",
+    "image": " /assets/demo-app (2).webp",
     "title": "NoteFlow – Smart Notes & Tasks",
     "companyName": "FlowApps",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (4).webp",
+    "image": " /assets/demo-app (4).webp",
     "title": "TaskHero – Gamified ToDo App",
     "companyName": "MindSpark",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (5).webp",
+    "image": " /assets/demo-app (5).webp",
     "title": "HabitLoop – Habit Tracker",
     "companyName": "Loop Studio",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (4).webp",
+    "image": " /assets/demo-app (4).webp",
     "title": "FocusMate – Study With Me",
     "companyName": "WorkBuddy",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (3).webp",
+    "image": " /assets/demo-app (3).webp",
     "title": "ZenFocus – Calm Productivity",
     "companyName": "Zenware",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (6).webp",
+    "image": " /assets/demo-app (6).webp",
     "title": "DayBook – Daily Journal",
     "companyName": "KraftHub",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (5).webp",
+    "image": " /assets/demo-app (5).webp",
     "title": "Taskly – Simple Task Manager",
     "companyName": "SkyApps",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (3).webp",
+    "image": " /assets/demo-app (3).webp",
     "title": "StudyCat – Study Timer",
     "companyName": "EduSoft",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (6).webp",
+    "image": " /assets/demo-app (6).webp",
     "title": "Notion Lite – Notes & Organizer",
     "companyName": "Notion Labs",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (3).webp",
+    "image": " /assets/demo-app (3).webp",
     "title": "FocusBuddy – Productivity Tracker",
     "companyName": "NextGen Studio",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (4).webp",
+    "image": " /assets/demo-app (4).webp",
     "title": "MindFocus – Deep Work Timer",
     "companyName": "MindLab",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "src/assets/demo-app (3).webp",
+    "image": " /assets/demo-app (3).webp",
     "title": "HabitForest – Grow With Habits",
     "companyName": "GreenRoot Apps",
     "id": 20,

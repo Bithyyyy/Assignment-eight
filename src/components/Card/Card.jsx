@@ -25,11 +25,11 @@ const Card = ({ card }) => {
           {title || 'Forest: Focus for Productivity'}
         </p>
         <div className='flex justify-between gap-10 pt-9 pl-3 pr-3'>
-          <button className='btn'>
+          <button className='btn bg-green-50'>
             <img src={download} className='w-5'></img>
             <p> {downloads}</p>
           </button>
-          <button className='btn'>
+          <button className='btn bg-amber-50'>
             <img src={star} className='w-5'></img>
             <p>{ratingAvg}</p>
           </button>

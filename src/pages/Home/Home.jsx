@@ -26,11 +26,17 @@ const Home = () => {
        <div className="flex justify-center gap-4 mb-14">
         <button className="flex items-center gap-2 bg-white  px-5 py-3 shadow hover:shadow-lg transition rounded-[4px]">
           <FaGooglePlay className="text-green-500 text-xl" />
-          <span className="font-medium">Google Play</span>
+          <span className="font-medium"><a
+                    href="https://play.google.com/store/apps?hl=en"
+                    target="_blank"
+                    
+                  >
+                   Google Play
+                  </a></span>
         </button>
         <button className="flex items-center gap-2 bg-white  px-5 py-3 shadow hover:shadow-lg transition rounded-[4px]">
           <FaAppStoreIos className="text-blue-500 text-xl" />
-          <span className="font-medium">App Store</span>
+          <span className="font-medium"><a href="https://www.apple.com/app-store/" target="_blank">App Store</a></span>
         </button>
       </div>
 
