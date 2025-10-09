@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import doodles from '../../assets/doodles.jpeg';
+
 import star from '../../assets/icon-ratings.png'
 import download from '../../assets/icon-downloads.png'
 
 const Card = ({ card }) => {
-  const { id, title, downloads, ratingAvg, image } = card;
+  const { id, title, downloads, ratingAvg, image } = card || {};
   
 
 
@@ -15,8 +15,8 @@ const Card = ({ card }) => {
       <figure className='h-48 overflow-hidden '>
         <img
           className='w-full h-full object-cover p-3 rounded-2xl' 
-          src={ image ||doodles}
-          alt={title || 'Card Image'}
+          src={image}
+          alt={title }
         />
       </figure>
 

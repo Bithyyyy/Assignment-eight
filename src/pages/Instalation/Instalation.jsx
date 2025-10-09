@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { IoMdArrowDropdown } from 'react-icons/io';
+import download from '../../assets/icon-downloads.png'
+import star from '../../assets/icon-ratings.png'
 
 const Instalation = () => {
   const [installedApps, setInstalledApps] = useState([]);
@@ -79,7 +81,7 @@ const Instalation = () => {
           sortedApps.map(app => (
             <div
               key={app.id}
-              className="flex justify-between items-center bg-white shadow-sm border rounded-lg p-4"
+              className="flex justify-between items-center bg-white shadow-sm rounded-lg p-4"
             >
               <div className="flex items-center space-x-4">
                 <img
@@ -89,9 +91,9 @@ const Instalation = () => {
                 />
                 <div>
                   <h3 className="font-semibold text-lg">{app.title}</h3>
-                  <div className="flex items-center text-sm text-gray-600 space-x-3">
-                    <span>⭐ {app.ratingAvg}</span>
-                    <span>⬇ {app.downloads}</span>
+                  <div className="flex items-center text-sm text-gray-600 space-x-10">
+                    <span> <img src={star} className='w-4'></img>{app.ratingAvg}</span>
+                    <span><img src={download} className='w-4'></img> {app.downloads}</span>
                     <span>{app.size} MB</span>
                   </div>
                 </div>
@@ -99,7 +101,7 @@ const Instalation = () => {
 
               <button
                 onClick={() => handleUninstall(app.id)}
-                className="bg-[#00d390] hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-md"
+                className="bg-[#00d390] hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-[3px]"
               >
                 Uninstall
               </button>

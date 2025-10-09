@@ -13,6 +13,7 @@ import {
   ResponsiveContainer,
   CartesianGrid,
 } from 'recharts';
+import { toast } from 'react-toastify';
 
 const CardDetails = () => {
   const { id } = useParams();
@@ -50,9 +51,9 @@ const CardDetails = () => {
     if (!alreadyInstalled) {
       installedApps.push(card);
       localStorage.setItem('installedApps', JSON.stringify(installedApps));
-      alert(`${card.title} installed successfully!`);
+      toast(`Installed successfully!`);
     } else {
-      alert(`${card.title} is already installed.`);
+      toast(`This app is already installed.`);
     }
   };
   return (

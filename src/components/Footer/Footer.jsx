@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router';
 import logo from '../../assets/logo.png';
+import { FaLinkedin } from "react-icons/fa6";
+import { FaFacebook } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
     return (
@@ -16,13 +19,10 @@ const Footer = () => {
                 HERO.IO
             </Link>
                 </div>  
+        </div>
 
-
-                <div>
-                    <p>Social Links</p>
-                    <span></span>
-                </div>
-          </div>
+                
+          
 
  
             <footer className="footer sm:footer-horizontal bg-[#001931]  text-white p-10">
@@ -46,6 +46,20 @@ const Footer = () => {
     <a className="link link-hover">Terms of use</a>
     <a className="link link-hover">Privacy policy</a>
     <a className="link link-hover">Cookie policy</a>
+  </nav>
+
+  <nav>
+    <h6 className='footer-title'>Social Links</h6>
+       <span>
+                      <div className='flex justify-between items-center'> <FaLinkedin/><p>Linkedin</p></div>
+                      <div className='flex justify-between items-center'><FaFacebook/><p> Facebook</p></div>
+                      <div className='flex justify-between items-center'> <FaSquareXTwitter /><p>Twitter</p></div>
+                       
+                      
+                    </span>              
+                   
+                    
+               
   </nav>
 
 </footer>
