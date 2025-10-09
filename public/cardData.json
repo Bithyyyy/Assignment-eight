@@ -1,6 +1,6 @@
 [
   {
-    "image": "src/assets/demo-app (2).webp",
+    "image": "/src/assets/time.jpg",
     "title": "Forest: Focus For Productivity",
     "companyName": "SeekrTech",
     "id": 1,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "src/assets/doodles.jpeg",
+    "image": "src/assets/demo-app (4).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Shikudo",
     "id": 7,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "src/assets/doodles.jpeg",
+    "image": "src/assets/demo-app (3).webp",
     "title": "FocusBuddy – Productivity Tracker",
     "companyName": "NextGen Studio",
     "id": 18,

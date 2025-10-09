@@ -9,7 +9,7 @@ const Footer = () => {
     return (
         <div className='bg-[#001931]'>
           <div className='flex justify-around items-center'>
-            <div className="flex items-center space-x-2 ml-10 " >
+            <div className="flex items-center space-x-2 ml-10 text-center" >
             <Link to="/home">
             <img src={logo} alt="HERO logo" className="md:w-10 w-10 mt-10" />
             </Link>
@@ -51,9 +51,9 @@ const Footer = () => {
   <nav>
     <h6 className='footer-title'>Social Links</h6>
        <span>
-                      <div className='flex justify-between items-center'> <FaLinkedin/><p>Linkedin</p></div>
-                      <div className='flex justify-between items-center'><FaFacebook/><p> Facebook</p></div>
-                      <div className='flex justify-between items-center'> <FaSquareXTwitter /><p>Twitter</p></div>
+                      <div className='flex justify-between items-center '> <FaLinkedin/><p>Linkedin</p></div>
+                      <div className='flex justify-between items-center gap-2'><FaFacebook/><p className='ml-3 text-center'> Facebook</p></div>
+                      <div className='flex justify-between items-center '> <FaSquareXTwitter /><p>Twitter</p></div>
                        
                       
                     </span>              
