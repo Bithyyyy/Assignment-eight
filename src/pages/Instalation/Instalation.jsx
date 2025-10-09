@@ -77,40 +77,49 @@ const Instalation = () => {
 
       {/* Installed Apps */}
       <div className="space-y-5">
-        {sortedApps.length > 0 ? (
-          sortedApps.map(app => (
-            <div
-              key={app.id}
-              className="flex justify-between items-center bg-white shadow-sm rounded-lg p-4"
-            >
-              <div className="flex items-center space-x-4">
-                <img
-                  src={app.image}
-                  alt={app.title}
-                  className="w-16 h-16 object-cover rounded-md"
-                />
-                <div>
-                  <h3 className="font-semibold text-lg">{app.title}</h3>
-                  <div className="flex items-center text-sm text-gray-600 space-x-10">
-                    <span> <img src={star} className='w-4'></img>{app.ratingAvg}</span>
-                    <span><img src={download} className='w-4'></img> {app.downloads}</span>
-                    <span>{app.size} MB</span>
-                  </div>
-                </div>
-              </div>
-
-              <button
-                onClick={() => handleUninstall(app.id)}
-                className="bg-[#00d390] hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-[3px]"
-              >
-                Uninstall
-              </button>
+  {sortedApps.length > 0 ? (
+    sortedApps.map(app => (
+      <div
+        key={app.id}
+        className="flex flex-col md:flex-row md:justify-between md:items-center bg-white shadow-sm rounded-lg p-4 gap-4"
+      >
+        
+        <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-4">
+          <img
+            src={app.image}
+            alt={app.title}
+            className="w-20 h-20 sm:w-16 sm:h-16 object-cover rounded-md mx-auto sm:mx-0"
+          />
+          <div className="mt-3 sm:mt-0 text-center sm:text-left">
+            <h3 className="font-semibold text-lg">{app.title}</h3>
+            <div className="flex flex-wrap justify-center sm:justify-start items-center text-sm text-gray-600 gap-x-6 gap-y-2 mt-1">
+              <span className="flex items-center gap-1">
+                <img src={star} className="w-4 h-4" alt="rating" />
+                {app.ratingAvg}
+              </span>
+              <span className="flex items-center gap-1">
+                <img src={download} className="w-4 h-4" alt="downloads" />
+                {app.downloads}
+              </span>
+              <span>{app.size} MB</span>
             </div>
-          ))
-        ) : (
-          <p className="text-center text-gray-500 mt-10">No installed apps yet.</p>
-        )}
+          </div>
+        </div>
+
+        {/* Button */}
+        <button
+          onClick={() => handleUninstall(app.id)}
+          className="bg-[#00d390] hover:bg-green-600 text-white font-semibold px-4 py-2 rounded-[3px] w-full sm:w-auto text-center"
+        >
+          Uninstall
+        </button>
       </div>
+    ))
+  ) : (
+    <p className="text-center text-gray-500 mt-10">No installed apps yet.</p>
+  )}
+</div>
+
     </div>
   );
 };
